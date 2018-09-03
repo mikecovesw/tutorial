@@ -1,4 +1,4 @@
 # tutorial
 Test project for Mike
 
-Test project for learning github.
+This will be a tutorial project for learning how to collaborate with GitHub!
